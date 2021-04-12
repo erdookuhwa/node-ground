@@ -1,0 +1,1 @@
+Contents of the first file: Hi, I'm the first file! and contents of the second file: Hello, I'm the 2nd file. combined to form third.txtRandom additional comment appended to this file
